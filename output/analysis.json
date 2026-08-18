@@ -1,0 +1,403 @@
+{
+  "dataset": {
+    "rows": 1068,
+    "unique_cases": 1024,
+    "product": "Bisoprolol"
+  },
+  "reporting_period": {
+    "start": "2024-12-27",
+    "end": "2025-12-26"
+  },
+  "case_summary": {
+    "total_cases": 1024,
+    "serious_cases": 1023,
+    "non_serious_cases": 1,
+    "serious_percentage": 99.9,
+    "non_serious_percentage": 0.1
+  },
+  "age_groups": {
+    "75+": 408,
+    "65-74": 267,
+    "45-64": 204,
+    "Unknown": 84,
+    "18-44": 45,
+    "<18": 16
+  },
+  "sex_distribution": {
+    "female": 503,
+    "male": 493,
+    "Unknown": 28
+  },
+  "country_distribution_top15": {
+    "eu": 325,
+    "united kingdom": 278,
+    "france": 187,
+    "canada": 55,
+    "italy": 52,
+    "germany": 39,
+    "spain": 26,
+    "poland": 21,
+    "portugal": 9,
+    "Unknown": 7,
+    "united states": 4,
+    "belgium": 4,
+    "IE": 3,
+    "RO": 2,
+    "SA": 2
+  },
+  "top_reactions": [
+    {
+      "value": "Acute kidney injury",
+      "count": 22
+    },
+    {
+      "value": "Drug ineffective",
+      "count": 12
+    },
+    {
+      "value": "Cerebral haemorrhage",
+      "count": 7
+    },
+    {
+      "value": "Hypokalaemia",
+      "count": 6
+    },
+    {
+      "value": "Cholestasis",
+      "count": 6
+    },
+    {
+      "value": "Hyponatraemia",
+      "count": 6
+    },
+    {
+      "value": "Joint swelling",
+      "count": 5
+    },
+    {
+      "value": "Hepatic cytolysis",
+      "count": 5
+    },
+    {
+      "value": "Drug interaction",
+      "count": 5
+    },
+    {
+      "value": "Pneumonitis",
+      "count": 4
+    },
+    {
+      "value": "Hypotension",
+      "count": 4
+    },
+    {
+      "value": "Syncope",
+      "count": 4
+    },
+    {
+      "value": "Muscle spasms",
+      "count": 4
+    },
+    {
+      "value": "Atrioventricular block",
+      "count": 4
+    },
+    {
+      "value": "Pemphigoid",
+      "count": 4
+    }
+  ],
+  "top_serious_reactions": [
+    {
+      "value": "Acute kidney injury",
+      "count": 22
+    },
+    {
+      "value": "Drug ineffective",
+      "count": 12
+    },
+    {
+      "value": "Cerebral haemorrhage",
+      "count": 7
+    },
+    {
+      "value": "Cholestasis",
+      "count": 6
+    },
+    {
+      "value": "Hyponatraemia",
+      "count": 6
+    },
+    {
+      "value": "Hypokalaemia",
+      "count": 6
+    },
+    {
+      "value": "Drug interaction",
+      "count": 5
+    },
+    {
+      "value": "Hepatic cytolysis",
+      "count": 5
+    },
+    {
+      "value": "Joint swelling",
+      "count": 5
+    },
+    {
+      "value": "Pneumonitis",
+      "count": 4
+    },
+    {
+      "value": "Pemphigoid",
+      "count": 4
+    },
+    {
+      "value": "Muscle spasms",
+      "count": 4
+    },
+    {
+      "value": "Syncope",
+      "count": 4
+    },
+    {
+      "value": "Atrioventricular block",
+      "count": 4
+    },
+    {
+      "value": "Cardiogenic shock",
+      "count": 4
+    }
+  ],
+  "outcomes": [
+    {
+      "value": "recovered/resolved",
+      "count": 147
+    },
+    {
+      "value": "recovering/resolving",
+      "count": 82
+    },
+    {
+      "value": "recovered/resolved,recovered/resolved",
+      "count": 76
+    },
+    {
+      "value": "not recovered/not resolved/ongoing",
+      "count": 67
+    },
+    {
+      "value": "unknown",
+      "count": 66
+    },
+    {
+      "value": "recovered/resolved,recovered/resolved,recovered/resolved",
+      "count": 52
+    },
+    {
+      "value": "unknown,unknown",
+      "count": 35
+    },
+    {
+      "value": "recovered/resolved,recovered/resolved,recovered/resolved,recovered/resolved",
+      "count": 29
+    },
+    {
+      "value": "recovering/resolving,recovering/resolving",
+      "count": 29
+    },
+    {
+      "value": "unknown,unknown,unknown",
+      "count": 23
+    },
+    {
+      "value": "fatal",
+      "count": 18
+    },
+    {
+      "value": "fatal,fatal",
+      "count": 18
+    },
+    {
+      "value": "not recovered/not resolved/ongoing,not recovered/not resolved/ongoing",
+      "count": 15
+    },
+    {
+      "value": "unknown,unknown,unknown,unknown",
+      "count": 14
+    },
+    {
+      "value": "recovered/resolved,recovered/resolved,recovered/resolved,recovered/resolved,recovered/resolved",
+      "count": 10
+    }
+  ],
+  "alerts": {
+    "alert_cases": 1023,
+    "case_ids": [
+      "24780403",
+      "24780599",
+      "24780680",
+      "24784771",
+      "24784845",
+      "24784920",
+      "24784985",
+      "24784989",
+      "24787006",
+      "24787240",
+      "24787307",
+      "24787627",
+      "24788122",
+      "24791327",
+      "24791598",
+      "24791831",
+      "24792345",
+      "24792691",
+      "24792889",
+      "24793431",
+      "24795574",
+      "24795755",
+      "24796067",
+      "24796224",
+      "24798336",
+      "24802877",
+      "24803041",
+      "24803117",
+      "24803128",
+      "24803463",
+      "24806665",
+      "24806776",
+      "24806812",
+      "24806832",
+      "24807274",
+      "24809124",
+      "24812900",
+      "24812977",
+      "24813208",
+      "24813219",
+      "24813415",
+      "24815412",
+      "24816890",
+      "24822547",
+      "24823024",
+      "24828530",
+      "24828871",
+      "24833163",
+      "24833191",
+      "24833204",
+      "24833425",
+      "24834918",
+      "24835358",
+      "24843792",
+      "24847678",
+      "24847955",
+      "24853075",
+      "24853349",
+      "24855113",
+      "24858691",
+      "24858708",
+      "24858723",
+      "24858756",
+      "24860343",
+      "24860802",
+      "24860813",
+      "24861349",
+      "24864994",
+      "24865163",
+      "24865641",
+      "24865801",
+      "24866816",
+      "24871166",
+      "24871216",
+      "24872990",
+      "24876245",
+      "24887289",
+      "24887406",
+      "24887784",
+      "24888230",
+      "24888268",
+      "24888443",
+      "24892198",
+      "24893439",
+      "24898140",
+      "24898322",
+      "24902753",
+      "24902758",
+      "24907505",
+      "24907834",
+      "24908264",
+      "24908454",
+      "24908666",
+      "24908919",
+      "24909030",
+      "24909055",
+      "24913162",
+      "24913316",
+      "24913394",
+      "24915088"
+    ]
+  },
+  "trends": {
+    "monthly_cases": [
+      {
+        "month": "2024-12",
+        "cases": 21
+      },
+      {
+        "month": "2025-01",
+        "cases": 75
+      },
+      {
+        "month": "2025-02",
+        "cases": 94
+      },
+      {
+        "month": "2025-03",
+        "cases": 83
+      },
+      {
+        "month": "2025-04",
+        "cases": 78
+      },
+      {
+        "month": "2025-05",
+        "cases": 80
+      },
+      {
+        "month": "2025-06",
+        "cases": 84
+      },
+      {
+        "month": "2025-07",
+        "cases": 109
+      },
+      {
+        "month": "2025-08",
+        "cases": 64
+      },
+      {
+        "month": "2025-09",
+        "cases": 76
+      },
+      {
+        "month": "2025-10",
+        "cases": 102
+      },
+      {
+        "month": "2025-11",
+        "cases": 75
+      },
+      {
+        "month": "2025-12",
+        "cases": 83
+      }
+    ],
+    "observation": "Case volume increased from 21 in 2024-12 to 83 in 2025-12."
+  },
+  "limitations": [
+    "No history-of-actions dataset was supplied.",
+    "No product label/CCDS was supplied, so expectedness is out of scope.",
+    "No System Organ Class field was supplied; analysis is at Preferred Term level.",
+    "Country analysis uses occurcountry consistently.",
+    "Case-level counts use unique safetyreportid; reaction-level counts use reaction rows."
+  ]
+}
